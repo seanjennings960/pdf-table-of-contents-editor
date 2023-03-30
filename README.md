@@ -2,7 +2,7 @@
 
 This document summarizes a Linux workflow for updating PDF table
 of contents. The process is broken into 4 steps:
-1. generate table of contents `txt` file with pdf-contents-extractor,
+1. generate table of contents text file with pdf-contents-extractor,
 2. manually edit generated contents file,
 3. run apply-offsets script, and
 4. update with HandyOutliner tool
